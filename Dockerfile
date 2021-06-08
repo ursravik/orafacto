@@ -25,4 +25,4 @@ RUN go build -o addsubdiv ./addsubdiv
 EXPOSE 3000
 
 # Command to run when starting the container
-CMD ["sleep", "10000"]
+#CMD ["sleep", "10000"]
